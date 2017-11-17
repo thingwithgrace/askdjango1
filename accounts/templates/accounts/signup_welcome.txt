@@ -1,0 +1,4 @@
+안녕하세요 {{ name }} 님. {{ name }} 께서는 {{ when }} 가입했습다.
+감사
+
+- AskDjango
